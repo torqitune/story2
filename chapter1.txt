@@ -1,1 +1,2 @@
 This is just a text in ch1 inside master branch.
+this text was added in test-path.
